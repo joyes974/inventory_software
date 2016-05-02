@@ -8,7 +8,7 @@
 /**
  * Description of sale
  *
- * @author Tamal
+ * @author Mohaimen
  */
 class sale extends Controller {
     function __construct() {
