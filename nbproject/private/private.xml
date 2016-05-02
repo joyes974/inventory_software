@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/C:/xampp/htdocs/inventorysoftware/application/models/fp_model.php</file>
+        <file>file:/C:/xampp/htdocs/inventorysoftware/application/views/settings/add_product_rate.php</file>
+        <file>file:/C:/xampp/htdocs/inventorysoftware/application/views/settings/add_product.php</file>
+        <file>file:/C:/xampp/htdocs/inventorysoftware/application/models/purchase_model.php</file>
+        <file>file:/C:/xampp/htdocs/inventorysoftware/application/views/rawmaterial/add_rm_release.php</file>
+        <file>file:/C:/xampp/htdocs/inventorysoftware/application/models/raw_model.php</file>
+        <file>file:/C:/xampp/htdocs/inventorysoftware/application/controllers/rawmaterials.php</file>
+        <file>file:/C:/xampp/htdocs/inventorysoftware/application/views/rawmaterial/edit_rm_release.php</file>
+        <file>file:/C:/xampp/htdocs/inventorysoftware/application/views/fpproduct/add_fp_release.php</file>
+        <file>file:/C:/xampp/htdocs/inventorysoftware/application/views/fpproduct/edit_fp_release.php</file>
+        <file>file:/C:/xampp/htdocs/inventorysoftware/application/views/shared/header.php</file>
+        <file>file:/C:/xampp/htdocs/inventorysoftware/application/views/shared/html_header.php</file>
+        <file>file:/C:/xampp/htdocs/inventorysoftware/application/views/main.php</file>
+        <file>file:/C:/xampp/htdocs/inventorysoftware/application/controllers/sale.php</file>
+        <file>file:/C:/xampp/htdocs/inventorysoftware/application/models/sale_model.php</file>
+        <file>file:/C:/xampp/htdocs/inventorysoftware/script/script.js</file>
+    </open-files>
+</project-private>
