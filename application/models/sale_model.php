@@ -8,7 +8,7 @@
 /**
  * Description of sale_model
  *
- * @author Tamal
+ * @author Mohaimen
  */
 class sale_model extends Model {
 
