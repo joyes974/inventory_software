@@ -3,7 +3,7 @@
 /**
  * Description of mod_login
  *
- * @author anwar
+ * @author Mohaimen
  */
 class mod_login extends Model {
 
