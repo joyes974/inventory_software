@@ -8,7 +8,7 @@
 /**
  * Description of purchase
  *
- * @author Tamal
+ * @author Mohaimen
  */
 class purchase extends Controller {
 
